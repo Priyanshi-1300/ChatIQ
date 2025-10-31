@@ -8,3 +8,4 @@ wordcloud
 urlextract
 vaderSentiment
 plotly
+scikit-learn
