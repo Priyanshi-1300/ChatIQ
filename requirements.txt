@@ -1,4 +1,8 @@
 streamlit
 matplotlib
+seaborn
 pandas
 numpy
+emoji
+wordcloud
+urlextract
