@@ -6,3 +6,4 @@ numpy
 emoji
 wordcloud
 urlextract
+vaderSentiment
